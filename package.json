@@ -1,0 +1,23 @@
+{
+  "name": "multiplayergame",
+  "version": "0.0.1",
+  "description": "my first multipayer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munjurinaazam/assignment-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munjurinaazam/assignment-2/issues"
+  },
+  "homepage": "https://github.com/munjurinaazam/assignment-2#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
